@@ -30,12 +30,12 @@ body {
 .juoda {
     background-color: black;
 }
-.figura-balta {
+.figura {
     display: inline-block;
     width: 50%;
     height: 50%;
     background-color: black;
-    border: 1px solid red;
+    border: 3px solid red;
     border-radius: 50px;
     margin-top: calc((100% - 61.75px) / 2);
     margin-left: calc((100% - 61.75px) / 2);
