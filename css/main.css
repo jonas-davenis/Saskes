@@ -11,6 +11,7 @@ body {
     background-color: blue;
     margin-top: calc((100vh - 500px) / 2);
     margin-left: calc((100% - 500px) /2);
+    border: 3px solid brown;
 }
 .eile {
     display: inline-block;
@@ -27,5 +28,11 @@ body {
     background-color: white;
 }
 .juoda {
+    background-color: black;
+}
+.figura-balta {
+    display: inline-block;
+    width: 50%;
+    height: 50%;
     background-color: black;
 }
