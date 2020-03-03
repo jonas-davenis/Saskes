@@ -34,7 +34,6 @@ body {
     display: inline-block;
     width: 50%;
     height: 50%;
-    background-color: black;
     border: 3px solid red;
     border-radius: 50px;
     margin-top: calc((100% - 61.75px) / 2);
