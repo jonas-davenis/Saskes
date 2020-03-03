@@ -1,0 +1,31 @@
+body {
+    height: 100vh;
+    background-image: linear-gradient(to right top, #f4ff00, #f9f200, #fce500, #fed900, #ffcc00, #ffbd00, #ffad00, #ff9e00, #ff8600, #ff6b00, #ff4900, #ff0000);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.lenta {
+    display: inline-block;
+    width: 500px;
+    height: 500px;
+    background-color: blue;
+    margin-top: calc((100vh - 500px) / 2);
+    margin-left: calc((100% - 500px) /2);
+}
+.eile {
+    display: inline-block;
+    width: 100%;
+    height: 25%;
+    float: left;
+}
+.saske {
+    display: inline-block;
+    width: 25%;
+    height: 100%;
+}
+.balt {
+    background-color: white;
+}
+.juoda {
+    background-color: black;
+}
