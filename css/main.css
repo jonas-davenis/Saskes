@@ -12,7 +12,6 @@ body {
     margin-top: calc((100vh - 500px) / 2);
     margin-left: calc((100% - 500px) / 2);
     border: 3px solid brown;
-    border-radius: 2px;
 }
 .eile {
     display: inline-block;
