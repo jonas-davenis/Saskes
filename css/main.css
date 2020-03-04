@@ -9,9 +9,9 @@ body {
     width: 500px;
     height: 500px;
     background-color: blue;
-    margin-top: calc((100vh - 500px) / 2);
+    margin-top: calc(550px - 500px) / 2);
     margin-left: calc((100% - 500px) / 2);
-    border: 3px solid brown;
+    border: 4px solid blue;
 }
 .eile {
     display: inline-block;
@@ -38,4 +38,17 @@ body {
     border-radius: 50px;
     margin-top: calc((100% - 61.75px) / 2);
     margin-left: calc((100% - 61.75px) / 2);
+}
+.remelis {
+    display: inline-block;
+    width: 550px;
+    height: 550px;
+    background-color: white;
+    margin-top: calc((100vh - 550px) / 2);
+    margin-left: calc((100% - 550px) / 2);
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    font-size: 15px;
+
 }
