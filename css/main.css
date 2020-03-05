@@ -9,7 +9,7 @@ body {
     width: 500px;
     height: 500px;
     background-color: blue;
-    margin-top: calc((100vh - 500px) / 2);
+    margin-top: calc((100% - 500px) / 2);
     margin-left: calc((100% - 500px) / 2);
     border: 4px solid blue;
 }
@@ -41,9 +41,9 @@ body {
 }
 .remelis {
     display: inline-block;
-    width: 510px;
-    height: 510px;
-    background-color: blue;
+    width: 550px;
+    height: 550px;
+    background-color: red;
     margin-top: calc((100vh - 510px) / 2);
     margin-left: calc((100% - 510px) / 2);
 
